@@ -21,59 +21,6 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lisрtView2_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listView4_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void ButtonSelectFile_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void ButtonSaveFile_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, System.EventArgs e)
-        {
-        }
-
-        private void listView3_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listView5_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void RoomClicked(object sender, EventArgs e)
         {
@@ -98,9 +45,10 @@ namespace WindowsFormsApp1
 
            // (ListViewItem)
 
-                ((ListBox)SelectedRoom).Items.Add(S)
+                //((ListBox)SelectedRoom).Items.Add(S)
 
             //((ListBox)SelectedRoom).Visible = false;
         }
+
     }
 }
